@@ -870,7 +870,7 @@ void PlotandFitWaveforms(int run) {
 ////////////////////////////////////////////////////////////////////////////////
 
 
-void wf_fitter_2_HD_NO_AVG(int run) {
+void wf_fitter_HD_NO_AVG(int run) {
 
     PlotandFitWaveforms(run);
 }
